@@ -12,4 +12,3 @@ AllCops:
     - config/**/**/*
     - Gemfile
     - Gemfile.lock
-    -
