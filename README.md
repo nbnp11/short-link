@@ -1,6 +1,6 @@
 # Short link API
 
-This app converts url to short link saves number of requests
+This app converts url to short link and saves number of link requests.
 
 ### Installing
 1. Clone repo: `git clone git@github.com:nbnp11/short-link.git && cd short-link`
