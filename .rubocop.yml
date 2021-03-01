@@ -1,0 +1,15 @@
+Style/Documentation:
+  Enabled: false
+
+AllCops:
+  NewCops: enable
+  DisplayCopNames: true
+  TargetRubyVersion: 2.6
+  Exclude:
+    - bin/**/*
+    - vendor/**/*
+    - db/**/*
+    - config/**/**/*
+    - Gemfile
+    - Gemfile.lock
+    -
